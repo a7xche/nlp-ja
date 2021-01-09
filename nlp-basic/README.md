@@ -1,4 +1,4 @@
-# NLP_Japanese
+# nlp-basic
 
 \* Written in Japanese
 
